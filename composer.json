@@ -1,6 +1,6 @@
 {
-    "name": "silverstripe-module/skeleton",
-    "description": "A skeleton for Silverstripe CMS modules.",
+    "name": "silverstripe/citywalk",
+    "description": "A City Walk for Silverstripe CMS modules.",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
